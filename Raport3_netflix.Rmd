@@ -408,7 +408,8 @@ dane %>%
 
 
 ```{r 34, eval=FALSE}
-# miejsce na kod
+challenge2 <- source("./R/challenge2.R")
+print(challenge2)
 ```
 
 
